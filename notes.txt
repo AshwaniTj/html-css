@@ -1,0 +1,7 @@
+Steps To add file to github.
+git add filename(to add a file)
+git commit -m "message" (to commit a file)
+git push (to push a file)
+
+Steps to take from github.
+git pull(to pull from server)
